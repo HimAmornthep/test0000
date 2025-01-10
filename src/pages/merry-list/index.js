@@ -12,7 +12,7 @@ import { jwtDecode } from "jwt-decode";
 import { doc } from "prettier";
 import { set } from "mongoose";
 import { MatchlistProfile } from "@/components/profile/MatchlistProfile";
-import Loading from "@/components/loading/loading";
+import Loading from "@/components/Loading/loading";
 
 
 
